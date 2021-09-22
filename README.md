@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kalyanchatterjee
 - 👀 I’m interested in stargazing, manual transmission cars and little bit programming
-- 🌱 I’m currently working with the MEAN stack, Infrastructure-as-Code (terraform) and Python
+- 🌱 I’m currently doing mostly backend work using Node JS and Python
 - 💞️ I’m looking to collaborate on freelance opporunities
 - 📫 Can be reached through email: kalyan@mantrax.io
 
